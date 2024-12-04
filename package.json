@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "mysql2": "^3.11.4",
+    "save": "^2.9.0",
+    "sequelize": "^6.37.5"
+  },
+  "name": "e-commerce",
+  "version": "1.0.0",
+  "description": "pedro",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PedroSantosMartinez/e-commerce.git"
+  },
+  "author": "pedro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PedroSantosMartinez/e-commerce/issues"
+  },
+  "homepage": "https://github.com/PedroSantosMartinez/e-commerce#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
